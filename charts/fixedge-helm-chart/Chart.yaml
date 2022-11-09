@@ -25,6 +25,6 @@ appVersion: "1.16.0"
 
 dependencies:
   - name: "fixedge"
-    version: "0.1.0"
+    version: "14.0.0"
   - name: "fixicc-agent"
-    version: "0.1.0"
+    version: "14.0.0"
